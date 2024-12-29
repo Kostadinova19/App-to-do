@@ -16,7 +16,7 @@
       "backend",
       "api"
     ],
-    "author": "Your Name",
+    "author": "Ljupka",
     "license": "MIT",
     "dependencies": {
       "body-parser": "^1.20.2",
